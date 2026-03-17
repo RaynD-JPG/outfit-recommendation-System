@@ -1,8 +1,6 @@
-# Outfit Recommendation Thesis
+# Outfit Recommendation System
 
-> **Note: This project is incomplete and under active development.**
-
-A personalized outfit recommendation system built as an undergraduate thesis project.
+A personalized outfit recommendation system.
 
 ## What It Does
 
