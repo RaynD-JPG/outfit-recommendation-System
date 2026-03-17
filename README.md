@@ -85,6 +85,4 @@ python src/evaluation.py
 - [x] Evaluation scripts (FITB + FCP)
 - [x] Streamlit web app
 - [ ] End-to-end testing
-- [ ] Thesis writing (in progress)
 
-**Deadline:** April 30, 2026
