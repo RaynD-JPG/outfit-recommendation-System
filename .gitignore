@@ -1,0 +1,49 @@
+# Virtual environment
+venv/
+
+# Large data files — not tracked
+data/polyvore/images/
+data/processed/
+
+# Uploaded/test images
+ProblemImageandImagesUploaded/
+WeirdImages/
+
+# Thesis writing docs (separate folder)
+thesis/
+Thesis*/
+
+# Misc project notes
+CLAUDE.md
+TODAYS_DELIVERABLES.md
+wireframe.html
+docs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Experiments output (figures etc.)
+experiments/
